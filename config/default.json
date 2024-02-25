@@ -1,0 +1,24 @@
+{
+    "some_ticker (e.g. 'DASH')": {
+        "ADMIN_PUBLIC_KEY": "",
+        "ADMIN_PRIVATE_KEY": ""
+    },
+    
+
+    "KEAGATE_API_KEY": "API-KEY",
+    "IP_WHITELIST": [],
+
+    "TRANSACTION_TIMEOUT": 1200000,
+    "TRANSACTION_MIN_REFRESH_TIME": 30000,
+    "TRANSACTION_SLIPPAGE_TOLERANCE": 0.02,
+    "BLOCKBOOK_RETRY_DELAY": 6000,
+    
+    "MONGO_CONNECTION_STRING": "mongodb://localhost:27017",
+    "MONGO_KEAGATE_DB": "keagate",
+
+    "INVOICE_ENC_KEY": "D(G+KbPeShVmYq3s6v9y$B&E)H@McQfT",
+
+    "IS_DEV": false,
+    "USE_SO_CHAIN": true,
+    "PORT": 8081
+}

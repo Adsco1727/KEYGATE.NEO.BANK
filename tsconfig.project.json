@@ -1,0 +1,20 @@
+{
+    "files": [],
+    "references": [
+        {
+            "path": "./packages/common/tsconfig.package.json",
+        },
+        {
+            "path": "./packages/backend/tsconfig.package.json",
+        },
+        {
+            "path": "./packages/invoice-client/tsconfig.package.json",
+        },
+        {
+            "path": "./packages/api-providers/tsconfig.package.json",
+        },
+        {
+            "path": "./packages/scripts/tsconfig.package.json",
+        }
+    ]
+}
